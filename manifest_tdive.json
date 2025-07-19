@@ -1,0 +1,21 @@
+{
+  "name": "Ticket UI",
+  "short_name": "Ticket",
+  "description": "A UI for managing event tickets.",
+  "start_url": "http://ticketdivecom.jp/ticket/tdive.html",
+  "display": "standalone",
+  "background_color": "#ffffff",
+  "theme_color": "#e85298",
+  "icons": [
+    {
+      "src": "",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "",
+      "sizes": "512x512",
+      "type": "image/png"
+    }
+  ]
+}
